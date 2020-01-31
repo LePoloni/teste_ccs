@@ -61,7 +61,7 @@ int main(void)
         BSP_LCD_DrawString2(1, 3, "Coca    R$5,00", LCD_BLACK, LCD_YELLOW);
         BSP_LCD_DrawString2(1, 4, "Fanta   R$4,00", LCD_BLACK, LCD_YELLOW);
         BSP_LCD_DrawString2(1, 5, "Guarana R$4,00", LCD_BLACK, LCD_YELLOW);
-        BSP_LCD_DrawString2(1, 6, "Coroti  R$3,00", LCD_BLACK, LCD_YELLOW);
+        BSP_LCD_DrawString2(1, 6, "Agua    R$3,00", LCD_BLACK, LCD_YELLOW);
 
         do
         {
